@@ -1,0 +1,22 @@
+{
+    "name": "yosuke/iim-td2",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iim\\Td2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youssef Charafeddine",
+            "email": "yosuke2017@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
